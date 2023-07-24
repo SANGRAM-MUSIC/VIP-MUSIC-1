@@ -614,9 +614,7 @@ def stream_markup(_, videoid, chat_id):
 
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/{GROUP_USERNAME}",
-
-            ),
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/ISQ_KI"),
 
             InlineKeyboardButton(
 
@@ -670,7 +668,7 @@ def telegram_markup(_, chat_id):
             
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/{GROUP_USERNAME}",
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/ISQ_KI",
 
             ),
 
@@ -734,7 +732,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
 
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/{GROUP_USERNAME}",
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/ISQ_KI",
 
             ),
 
@@ -993,7 +991,7 @@ def queue_markup(_, videoid, chat_id):
 
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/{GROUP_USERNAME}",
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/ISQ_KI",
 
             ),
 
