@@ -267,7 +267,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url=f"https://t.me/{GROUP_USERNAME}"
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url=f"https://t.me/ISQ_KI"
 
             ),
 
@@ -540,7 +540,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
 
             InlineKeyboardButton(
 
-                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/{GROUP_USERNAME}"
+                text="🌸sᴜᴘᴘᴏʀᴛ❤️", url="https://t.me/ISQ_KI"
 
             ),
 
